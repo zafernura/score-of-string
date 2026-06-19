@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zafernura/score-of-string/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/zafernura/score-of-string/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zafernura/score-of-string/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/zafernura/score-of-string/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zafernura/score-of-string/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -90,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/zafernura/score-of-string/tree/master/0643-maximum-average-subarray-i) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/zafernura/score-of-string/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->
