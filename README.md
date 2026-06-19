@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/zafernura/score-of-string/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/zafernura/score-of-string/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/zafernura/score-of-string/tree/master/0463-island-perimeter) |
+| [0643-maximum-average-subarray-i](https://github.com/zafernura/score-of-string/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/zafernura/score-of-string/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zafernura/score-of-string/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/zafernura/score-of-string/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/zafernura/score-of-string/tree/master/0463-island-perimeter) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/zafernura/score-of-string/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
