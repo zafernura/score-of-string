@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/zafernura/score-of-string/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/zafernura/score-of-string/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/zafernura/score-of-string/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/zafernura/score-of-string/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/zafernura/score-of-string/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/zafernura/score-of-string/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zafernura/score-of-string/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zafernura/score-of-string/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/zafernura/score-of-string/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/zafernura/score-of-string/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/zafernura/score-of-string/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zafernura/score-of-string/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -37,15 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/zafernura/score-of-string/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/zafernura/score-of-string/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/zafernura/score-of-string/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zafernura/score-of-string/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/zafernura/score-of-string/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/zafernura/score-of-string/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/zafernura/score-of-string/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/zafernura/score-of-string/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zafernura/score-of-string/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
