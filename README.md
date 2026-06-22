@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zafernura/score-of-string/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/zafernura/score-of-string/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/zafernura/score-of-string/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/zafernura/score-of-string/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/zafernura/score-of-string/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/zafernura/score-of-string/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/zafernura/score-of-string/tree/master/0463-island-perimeter) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/zafernura/score-of-string/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/zafernura/score-of-string/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/zafernura/score-of-string/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/zafernura/score-of-string/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/zafernura/score-of-string/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/zafernura/score-of-string/tree/master/0867-transpose-matrix) |
 ## Depth-First Search
