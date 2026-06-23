@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zafernura/score-of-string/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/zafernura/score-of-string/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zafernura/score-of-string/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/zafernura/score-of-string/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/zafernura/score-of-string/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/zafernura/score-of-string/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zafernura/score-of-string/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/zafernura/score-of-string/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/zafernura/score-of-string/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/zafernura/score-of-string/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/zafernura/score-of-string/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zafernura/score-of-string/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zafernura/score-of-string/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zafernura/score-of-string/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/zafernura/score-of-string/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Stack
 |  |
 | ------- |
@@ -100,5 +103,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/zafernura/score-of-string/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zafernura/score-of-string/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/zafernura/score-of-string/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/zafernura/score-of-string/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+## Math
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/zafernura/score-of-string/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
