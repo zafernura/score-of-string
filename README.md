@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/zafernura/score-of-string/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/zafernura/score-of-string/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/zafernura/score-of-string/tree/master/0463-island-perimeter) |
+| [0594-longest-harmonious-subsequence](https://github.com/zafernura/score-of-string/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/zafernura/score-of-string/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/zafernura/score-of-string/tree/master/0867-transpose-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zafernura/score-of-string/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -56,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/zafernura/score-of-string/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/zafernura/score-of-string/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/zafernura/score-of-string/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/zafernura/score-of-string/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/zafernura/score-of-string/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/zafernura/score-of-string/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/zafernura/score-of-string/tree/master/0594-longest-harmonious-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/zafernura/score-of-string/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/zafernura/score-of-string/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zafernura/score-of-string/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/zafernura/score-of-string/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/zafernura/score-of-string/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zafernura/score-of-string/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/zafernura/score-of-string/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -109,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/zafernura/score-of-string/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/zafernura/score-of-string/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
