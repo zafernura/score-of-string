@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/zafernura/score-of-string/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zafernura/score-of-string/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/zafernura/score-of-string/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/zafernura/score-of-string/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/zafernura/score-of-string/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/zafernura/score-of-string/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zafernura/score-of-string/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/zafernura/score-of-string/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zafernura/score-of-string/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/zafernura/score-of-string/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/zafernura/score-of-string/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/zafernura/score-of-string/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/zafernura/score-of-string/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/zafernura/score-of-string/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zafernura/score-of-string/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
