@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/zafernura/score-of-string/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/zafernura/score-of-string/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/zafernura/score-of-string/tree/master/0643-maximum-average-subarray-i) |
+| [0832-flipping-an-image](https://github.com/zafernura/score-of-string/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/zafernura/score-of-string/tree/master/0867-transpose-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zafernura/score-of-string/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/zafernura/score-of-string/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/zafernura/score-of-string/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/zafernura/score-of-string/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zafernura/score-of-string/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zafernura/score-of-string/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/zafernura/score-of-string/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/zafernura/score-of-string/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/zafernura/score-of-string/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/zafernura/score-of-string/tree/master/0832-flipping-an-image) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/zafernura/score-of-string/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/zafernura/score-of-string/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zafernura/score-of-string/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/zafernura/score-of-string/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/zafernura/score-of-string/tree/master/0463-island-perimeter) |
+| [0832-flipping-an-image](https://github.com/zafernura/score-of-string/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/zafernura/score-of-string/tree/master/0867-transpose-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/zafernura/score-of-string/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Depth-First Search
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/zafernura/score-of-string/tree/master/0594-longest-harmonious-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/zafernura/score-of-string/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
